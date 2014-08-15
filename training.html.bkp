@@ -1,0 +1,202 @@
+<html>
+<head>
+<title>All in One Pet Service</title>
+<link type="text/css" rel="stylesheet" href="menu.css" />
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript" src="tips.js"></script>
+</head>
+<body bgcolor="#ffffff">
+<div align="center">
+
+
+<table cellspacing="0" cellpadding="0" border="0" width="821">
+<tr>
+<td colspan="3" width="821"><img src="imgs/logo.gif" width="821" height="176"></td>
+</tr>
+<tr><td bgcolor="#ffffff" width="21"></td>
+<td bgcolor="#000000" width="30"></td>
+<td valign="top" bgcolor="#000000" width="730" align="center">
+
+<div id="menu">
+<ul id="topMenu">
+
+<li class="topMenuLink">
+    <a href="index.html" style="width:75px;" onMouseOver="mouse('home','homep','')" onMouseOut="mouse('home','home','')">
+    <img src="imgs/home.png" name="home" border="0" width="75" height="35"></a>
+</li>
+
+<li class="topMenuLink">
+  <a href="#" style="width:100;" onMouseOver="mouse('services','servicesp','')" onMouseOut="mouse('services','services','')">
+    <img src="imgs/services.png" name="services" border="0" width="95" height="35"></a>
+    <ul class="subMenu">
+      <li class="subMenuLink"><a href="training.html" title="Obedience Training and Animal Behavior Modification">&nbsp;&nbsp;Training</a></li>
+      <li class="subMenuLink"><a href="petsitting.html" title="Pet Sitting">&nbsp;&nbsp;Pet Sitting</a></li>
+      <li class="subMenuLink"><a href="walks.html" title="Daily Walks">&nbsp;&nbsp;Daily Walks</a></li>
+      <li class="subMenuLink"><a href="park.html" title="Dog Park">&nbsp;&nbsp;Dog Park</a></li>
+      <li class="subMenuLink"><a href="transport.html" title="Pet Transport">&nbsp;&nbsp;Pet Transport</a></li>
+      <li class="subMenuLink"><a href="firstaid.html" title="Pet First Aid &amp Care">&nbsp;&nbsp;Pet Care</a></li>
+      <li class="subMenuLink"><a href="cleanup.html" title="Yard Cleanup Services">&nbsp;&nbsp;Yard Clean Up</a></li>
+      <li class="subMenuLink"><a href="massage.html" title="Canine Massage">&nbsp;&nbsp;Canine Massage</a></li>
+    </ul>
+  </li>
+
+<li class="topMenuLink">
+  <a href="#" style="width:70px;" onMouseOver="mouse('staff','staffp','')" onMouseOut="mouse('staff','staff','')">
+  <img src="imgs/staff.png" name="staff" border="0" width="70" height="35"></a>
+    <ul class="subMenu">
+      <li class="subMenuLink"><a href="theer.html" title="Karen Theer">&nbsp;&nbsp;Karen Theer</a></li>
+      <li class="subMenuLink"><a href="vanpelt.html" title="Judy VanPelt">&nbsp;&nbsp;Judy VanPelt</a></li>
+      <li class="subMenuLink"><a href="bassa.html" title="Anita Bassa">&nbsp;&nbsp;Anita Bassa</a></li>
+      <li class="subMenuLink"><a href="durnye.html" title="Vicky Durnye">&nbsp;&nbsp;Vicky Durnye</a></li>
+      <li class="subMenuLink"><a href="poignonnec.html" title="Michael Poignonnec">&nbsp;&nbsp;Michael Poignonnec</a></li>
+      <li class="subMenuLink"><a href="thorp.html" title="Liz Thorp">&nbsp;&nbsp;Liz Thorp</a></li>
+      <li class="subMenuLink"><a href="kultys.html" title="Kathy Kultys">&nbsp;&nbsp;Kathy Kultys</a></li>
+    </ul>
+  </li>
+
+<li class="topMenuLink">
+  <a style="width:115px;" href="references.html" onMouseOver="mouse('references','referencesp','')" onMouseOut="mouse('references','references','')">
+    <img src="imgs/references.png" name="references" border="0" width="115" height="35"></a>
+</li>
+
+
+<li class="topMenuLink">
+  <a style="width:122;" href="links.html" onMouseOver="mouse('links','linksp','')" onMouseOut="mouse('links','links','')">
+     <img src="imgs/links.png" name="links" border="0" width="122" height="35"></a>
+  </li>
+
+<li class="topMenuLink">
+  <a style="width:170px" href="cared.html" onMouseOver="mouse('cared','caredp','')" onMouseOut="mouse('cared','cared','')">
+    <img src="imgs/cared.png" name="cared" border="0" width="170" height="35"></a>
+</li>
+
+<li class="topMenuLink">
+  <a style="width:100px" href="contact.html" onMouseOver="mouse('contact','contactp','')" onMouseOut="mouse('contact','contact','')">
+    <img src="imgs/contact.png" name="contact" border="0" width="100" height="35"></a>
+  </li>
+
+</ul>
+</div>
+
+<br>
+</td></tr>
+<tr>
+<td width="21" style="width:21" bgcolor="#ffffff"><font color="#ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></td>
+<td width="800" colspan="2" align="right" bgcolor="#000000">
+
+<table width="800" cellpadding="15" cellspacing="0" border="0">
+<tr><td valign="top" width="200" bgcolor="#000000">
+<font size="2" color="#ffff00"><b><br>
+Random Pet Tip:
+</b><i>
+<script language="javascript">
+tip();
+</script>
+
+</i>
+</font>
+</td>
+<td width="590" bgcolor="#ffffff">
+
+
+<h2>Dog Obedience Classes</h2>
+
+<b>Puppy Obedience</b> (10 weeks - 6 months old) <br>
+<img src="imgs/puppy.jpg" hspace="10" vspace="10" align="right">Teach your puppy good manners before bad habits begin.  This class focuses on establishing good habits while building a foundation for good obedience training by giving your puppy a head start on important behaviors like sit, down, stay, come, walking nicely on a leash and proper canine behavior. All common behavioral problems will be specifically addressed during a question and answer period at the end of each class.  The problems will include social hierarchy, housebreaking, chewing, mouthing and jumping and much more.  Class includes a 15-minute off-leash play and socialization session.
+<br><br>
+<table cellspacing="0" cellpadding="5" border="0">
+<tr><td>Thursday</td><td>November 20, 2008 - January 15, 2009</td><td>7:00pm - 8:00pm</td></tr>
+<tr><td></td><td>(No class 11/27, 12/25, 1/1)</td><td></td></tr>
+<tr><td>Friday</td><td>November 21, 2008 - January 2, 2009</td><td>8:00pm - 9:00pm</td></tr>
+<tr><td></td><td>(No class 12/26)</td><td></td></tr>
+<tr><td>Sunday</td><td>November 23, 2008 - December 28, 2008</td><td>10:00am - 11:00am</td></tr>
+<tr><td>Saturday</td><td>December 13, 2008 - January 17, 2009</td><td>11:00am - 12:00pm</td></tr>
+<tr><td>Sunday</td><td>January 11, 2009 - February 15, 2009</td><td>10:00am - 11:00am</td></tr>
+<tr><td>Friday</td><td>January 16, 2009 - February 20, 2009</td><td>7:00pm - 8:00pm</td></tr>
+<tr><td>Thursday</td><td>February 5, 2009 - March 12, 2009</td><td>8:00pm - 9:00pm</td></tr>
+<tr><td>Saturday</td><td>February 7, 2009 - March 21, 2009</td><td>11:00am - 12:00pm</td></tr>
+</table>
+<br><br>
+
+<b>Basic obedience</b> (7 months or older)<br>
+<img src="imgs/basic.jpg" hspace="10" vspace="10" align="left">Dogs are learning every minute...life is either positive or negative, feels good, feels bad.  What dogs lack is "impulse" control, no different than that of a child. It must be taught via training.  The moment a dog walks into our life, they are looking for information on how to understand our world and fit in. It's a place where a human must provide all the information about how to live in a family structure.  This class focuses on establishing good habits and teaching behaviors like sit, down, stay, come, drop it, leave it, walking nicely on a leash and proper canine behavior.  Other problems that will be addressed are social hierarchy, chewing, mouthing, jumping and much more.
+<br><br>
+<table cellspacing="0" cellpadding="5" border="0">
+<tr><td>Thursday</td><td>November 20, 2008 - January 15, 2009</td><td>8:00pm - 9:00pm</td></tr>
+<tr><td></td><td>(No class 11/27, 12/25, 1/1)</td><td></td></tr>
+<tr><td>Friday</td><td>November 21, 2008 - January 2, 2009</td><td>7:00pm - 8:00pm</td></tr>
+<tr><td></td><td>(No class 12/26)</td><td></td></tr>
+<tr><td>Sunday</td><td>November 23, 2008 - December 28, 2008</td><td>11:00am - 12:00pm</td></tr>
+<tr><td>Saturday</td><td>December 13, 2008 - January 17, 2009</td><td>10:00am - 11:00am</td></tr>
+<tr><td>Sunday</td><td>January 11, 2009 - February 15, 2009</td><td>11:00am - 12:00pm</td></tr>
+<tr><td>Friday</td><td>January 16, 2009 - February 20, 2009</td><td>8:00pm - 9:00pm</td></tr>
+<tr><td>Thursday</td><td>February 5, 2009 - March 12, 2009</td><td>7:00pm - 8:00pm</td></tr>
+<tr><td>Saturday</td><td>February 7, 2009 - March 21, 2009</td><td>10:00am - 11:00am</td></tr>
+</table>
+<br><br>
+
+<b>Advanced Dog Obedience Class</b><br>
+<img src="imgs/advanced.gif" hspace="10" vspace="10" align="left">Continue the fun!  Now is the time to build on the foundation work you learned in Basic Obedience Class.  Emphasis will be on improving and fine-tuning your dog's newly acquired skills.  Work on focus (watch me), sit-stay and down-stay increasing time, distance and distractions.  Recalls, off-leash training, and out of sight commands will also be taught.  Behavior issues will be addressed.  Prerequisite: Must have completed Basic Dog Obedience Class, dogs must be able to greet other dogs without aggression; all dogs must be spayed or neutered.
+<br><br>
+<table cellspacing="0" cellpadding="5" border="0">
+<tr><td>Sunday</td><td>November 23, 2008 - December 28, 2008</td><td>12:30pm - 1:30pm</td></tr>
+<tr><td>Saturday</td><td>December 13, 2008 - January 17, 2009</td><td>12:30pm - 1:30pm</td></tr>
+<tr><td>Sunday</td><td>January 11, 2009 - February 15, 2009</td><td>12:30pm - 1:30pm</td></tr>
+<tr><td>Saturday</td><td>February 7, 2009 - March 21, 2009</td><td>12:30pm - 1:30pm</td></tr>
+</table>
+<br><br>
+
+<b>Canine Good Citizen Class</b><br>
+<img src="imgs/old.gif" hspace="10" vspace="10" align="left">Do you want to do more with your dog?  Have you thought about pet therapy work?  If so, this course will teach you the skills needed for your dog to get his or her Canine Good Citizen title.
+<br>There is no age limit for this class, but dogs need to be at least 6 months old by November 11, 2008.  All dogs of any breeding (breeds and mixed breeds) can earn the AKC Canine Good Citizen certificate.
+<br>This program is designed to help dogs prepare to pass the American Kennel Club's Canine Good Citizen test.  Many dog owners complete CGC training and testing so their canines can become therapy dogs.  All ten CGC test exercises will be taught.  Testing will be done after the last class.  A $10 fee will be charged by the testing evaluator at the time of the test.  American Kennel Club will issue certificates to dogs that pass the test.  The test is not required for the class, but is required to receive an A.K.C. certificate.
+<br>Items on the Canine Good Citizen test include: accepting a friendly stranger, sitting calmly and politely for petting, allowing handling for grooming and physical examination, walking on a loose lead, walking through crowded areas, sit and down on command and staying in place, coming when called, reaction to another dog, reaction to distracting environments, supervised separation.  Prerequisite: Must have completed Basic Dog Obedience Class and dogs must be able to greet other dogs without aggression.
+<br><br>
+<table cellspacing="0" cellpadding="5" border="0">
+<tr><td>Sunday</td><td>November 23, 2008 - December 28, 2008</td><td>1:30pm - 2:30pm</td></tr>
+<tr><td>Saturday</td><td>December 13, 2008 - January 17, 2009</td><td>1:30pm - 2:30pm</td></tr>
+<tr><td>Sunday</td><td>January 11, 2009 - February 15, 2009</td><td>1:30pm - 2:30pm</td></tr>
+<tr><td>Saturday</td><td>February 7, 2009 - March 21, 2009</td><td>1:30pm - 2:30pm</td></tr>
+</table>
+<br><br>
+
+<hr>
+<center>
+To register call (732)991-7374 &bull; Cost:  $150.00 for each class &bull; 6 Sessions
+<br>
+Dogs must be up-to-date on shots &bull; All classes held in East Brunswick  
+<br>
+Must Pre-Register &bull; Min. 3 dogs per class, max. 6 dogs per class
+</center>
+<hr>
+
+<center>
+<font size="7">Vicky Durnye</font>
+<br>
+CPDT, APDT, AKC CGC Evaluator<br>
+ Phone: (732)991-7374<br>
+Email: vdurnye@hotmail.com
+<br><br>
+Puppy, Basic, Advanced, Agility, CGC, Animal Behavior<br>
+Private In-Home Training &bull; Group Classes<br>
+</center>
+
+<img src="imgs/cpdt.jpg"> <img src="imgs/apdt-training.jpg"> <img src="imgs/canine-good-citizen.gif">
+
+</td>
+<td width="10" bgcolor="#000000"></td>
+</tr>
+</table>
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="3" width="821"><img src="imgs/bottom.gif" width="821" height="40"></td>
+</tr>
+</table>
+</body>
+
+<!-- Website created by Manoj Dayaram - August 2006 -->
+</html>
+
